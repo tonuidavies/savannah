@@ -884,9 +884,4 @@ form textarea:focus {
   margin-bottom: 0;
 }
 
-.game {
-    background-image: url("http://www.gondwanagr.co.za/wp-content/gallery/game-drives/dsc07312_edited1.jpg");
-    position: fixed;
-    background-attachment: fixed;
-    height: 10rem;
-}
+
