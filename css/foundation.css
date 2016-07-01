@@ -1038,7 +1038,7 @@ button {
   .large-9 {
     width: 75%; }
   .large-push-9 {
-    position: relative;
+    position: relative;imagimagimag
     left: 75%; }
   .large-pull-9 {
     position: relative;
@@ -4192,3 +4192,12 @@ table.hover tr:nth-of-type(even):hover {
 .long-delay {
   -webkit-animation-delay: 700ms !important;
           animation-delay: 700ms !important; }
+
+.wildbeast {
+
+    padding: 10rem;
+    background-image: url("http://hanseltravel.com/wp-content/uploads/2016/03/mara-game-reserve-3-1.jpg");
+    color: #F06868;
+
+
+}
