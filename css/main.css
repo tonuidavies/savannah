@@ -4,8 +4,7 @@ a{text-decoration:none;color:inherit;}
 html{width:100%;height:100%;}
 
 /* Body */
-body{
-  background:#fff;
+;
 }
 
 /* Fonts */
@@ -21,7 +20,6 @@ body{
 /* Header */
 header{
   width:100%;
-  height:80px;
   background:#222;
 }
 .logo{
