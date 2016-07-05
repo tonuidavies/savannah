@@ -4196,8 +4196,12 @@ table.hover tr:nth-of-type(even):hover {
 .wildbeast {
 
     padding: 10rem;
-    background-image: url("http://hanseltravel.com/wp-content/uploads/2016/03/mara-game-reserve-3-1.jpg");
-    color: #F06868;
+    background-image: url("http://eastlandadventure.com/wp-content/uploads/2015/01/migration_wildebeest_river_crossing.jpg");
+/*    color: #F06868;*/
+background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+
 
 
 }
